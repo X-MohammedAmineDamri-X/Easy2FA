@@ -1,0 +1,13 @@
+[project]
+name = "easy2fa"
+version = "0.1.0"
+description = "Simple all-in-one 2FA helper for Python"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name="DAMRI Med Amine", email="mohammedaminedamri.ma@gmail.com" }]
+requires-python = ">=3.7"
+dependencies = ["qrcode[pil]"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

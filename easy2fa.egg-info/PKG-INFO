@@ -1,7 +1,14 @@
+Metadata-Version: 2.4
+Name: easy2fa
+Version: 0.1.0
+Summary: Simple all-in-one 2FA helper for Python
+Author-email: DAMRI Med Amine <mohammedaminedamri.ma@gmail.com>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: qrcode[pil]
 
 # Easy2FA
-Easy2FA: A lightweight Python library for adding Two-Factor Authentication (2FA) with TOTP. Quickly generate and verify codes compatible with Google Authenticator, Authy, and other apps. Simple, secure, and easy to integrate into any Python project.
-=======
 A simple, all-in-one 2FA helper for Python — TOTP, QR codes, backup codes, and rate limiting.
 
 ## Install
@@ -19,4 +26,3 @@ MIT License
 Copyright (c) 2025 Mohammed Amine DAMRI
 
 Permission is hereby granted...
->>>>>>> 8791791 (Initial commit: easy2fa library)

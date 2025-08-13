@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+easy2fa/__init__.py
+easy2fa/core.py
+easy2fa.egg-info/PKG-INFO
+easy2fa.egg-info/SOURCES.txt
+easy2fa.egg-info/dependency_links.txt
+easy2fa.egg-info/requires.txt
+easy2fa.egg-info/top_level.txt
